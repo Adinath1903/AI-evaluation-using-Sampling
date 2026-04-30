@@ -31,4 +31,4 @@ This project applies inverse sampling to estimate and compare error probabilitie
 3. Run the script
 
 ## 👨‍💻 Author
-Your Name
+Adinath Nare
